@@ -1,0 +1,6 @@
+﻿  LexAnalysator.cpp
+  main.cpp
+C:\Users\Saint Abel\source\repos\LexAnalysator\LexAnalysator\main.cpp(4,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Saint Abel\source\repos\LexAnalysator\Debug\LexAnalysator.exe при последней инкрементной компоновке; выполняется полная компоновка
+  LexAnalysator.vcxproj -> C:\Users\Saint Abel\source\repos\LexAnalysator\Debug\LexAnalysator.exe
